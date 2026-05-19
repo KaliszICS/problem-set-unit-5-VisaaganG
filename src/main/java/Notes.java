@@ -20,4 +20,4 @@ public class Notes {
         //May use any arraylist, hashmap, arraydeque methods.
 
     }
-}
+} 
